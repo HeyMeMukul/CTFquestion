@@ -1,4 +1,6 @@
-Can you Conver this secret code in the audio file to a flag 
+Are you a Detective ?
+
+Can you Convert this secret code in the audio file to a flag 
 
 Disclaimer :
 Write the decoded string inside  " H&SCTF{ } "
