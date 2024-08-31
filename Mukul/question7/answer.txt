@@ -1,1 +1,1 @@
- H&SCTFCTF{y0u_fu**ed_br4in_fuck}
+ H&SCTF{y0u_fu**ed_br4in_fuck}
