@@ -1,0 +1,83 @@
+body {
+    background-color: #f0f0f0;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  p {
+    font-family: Arial, sans-serif;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #2980b9;
+  }
+  
+  #flag {
+    font-family: "Courier New", monospace;
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  @keyframes flagAnimation {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+  #flag:hover {
+    animation: flagAnimation 2s linear infinite;
+  }
+  
+  .extra {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .extra img {
+    width: 200px;
+    border-radius: 5%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  }
+  
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: transform 0.5s;
+  }
+
+  .button:hover {
+    transform: translateX(500px);
+   
+  }
+
+ /* 0_c0mm0n_v3ry */
+
+  
+  
