@@ -1,0 +1,19 @@
+Title: Brainfuck Mystery
+
+Challenge Description:
+You've stumbled upon an encrypted message encoded in Brainf**k, a minimalist programming language. Your task is to decipher the message and uncover the hidden flag.
+
+
+Hints:
+
+    Start by understanding how Brainf**k works.
+    Analyze the code step by step to understand its behavior.
+    Consider using online Brainfuck interpreters to help you decipher the code.(maybe it result in your familiar programming language)
+
+
+Encrypted Brainf**k Code:
+
+++++[->++++++++<]>.++++[->++<]>.[-->+<]>++.+++[->++<]>+.--[->++++<]>-.>-[--->+<]>-.[----->+<]>++.---.>-[--->+<]>-.[----->+<]>++.>--[-->+++++<]>.--.-[----->++<]>.+[--->++<]>-.[->+++<]>.+++++++.-[--->+<]>--.[--->+<]>+++..-[--->+<]>++.-.-----.+++.[--->+<]>----.[-->+<]>-----.[->++<]>+.+++++.---------------.+++++++.-[--->+<]>--.+[->+++<]>+.++++++++.>--[-->+++<]>
+
+Format of the Flag:
+The flag is in the format: H&SCTF{...}
