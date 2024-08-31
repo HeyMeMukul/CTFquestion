@@ -4,4 +4,4 @@ We have provide an audio file belo in which flag is provided you need to crack i
 
 NOTE : Enter the flag inside H&SCTF{}
 
-HINT : Is the audio correct ?
+HINT : Ever heard of AUDACITY ? 
