@@ -1,6 +1,0 @@
-
-Crack PASS 
-
-HINT = I LOVE YOU TOO 
-
-FLAG = CTF{123456789}
